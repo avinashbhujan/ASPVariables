@@ -1,0 +1,6 @@
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\bin\ASPVariables.dll.config
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\bin\ASPVariables.dll
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\bin\ASPVariables.pdb
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\obj\Debug\ASPVariables.csprojResolveAssemblyReference.cache
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\obj\Debug\ASPVariables.dll
+c:\users\vbhujan\documents\visual studio 2013\Projects\ASPVariables\ASPVariables\obj\Debug\ASPVariables.pdb
